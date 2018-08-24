@@ -1,0 +1,22 @@
+{
+  "name": "copper-agent",
+  "version": "1.0.0",
+  "description": "Agent for copper-mail",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuudb/copper-agent.git"
+  },
+  "author": "Anushka Bandara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuudb/copper-agent/issues"
+  },
+  "homepage": "https://github.com/anuudb/copper-agent#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
